@@ -1,5 +1,5 @@
 /*
-This helper code was
+This helper code was provided by my instructor. I, Kathleen Tiley, did not write the below code.
  */
 
 public class P1Random {
